@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">custom toolbar</string>
+    <string name="new_item_menu"><![CDATA[New/> <item </menu>]]></string>
+</resources>
